@@ -55,8 +55,9 @@
         </a>
 
         <a href="#" class="logo">
-          <img src="./assets/icons/logo-removebg-preview.png" alt="Tourly logo">
-        </a>
+  <img src="./assets/icons/logo-removebg-preview.png" alt="Tourly logo" style="width: 120px; height: 60px;">
+</a>
+
 
         <div class="header-btn-group">
 
@@ -163,12 +164,10 @@
       <section class="hero" id="home">
         <div class="container">
 
-          <h2 class="h1 hero-title">Journey to explore world</h2>
+          <h2 class="h1 hero-title">Your Gateway to World-Class Hospitality. Reserve Now!</h2>
 
           <p class="hero-text">
-            Ac mi duis mollis. Sapiente? Scelerisque quae, penatibus? Suscipit class corporis nostra rem quos
-            voluptatibus habitant?
-            Fames, vivamus minim nemo enim, gravida lobortis quasi, eum.
+          Welcome to a world of possibilities. Discover, Explore, and Experience with us.
           </p>
 
           <div class="btn-group">
@@ -238,12 +237,14 @@
 
           <p class="section-subtitle">Uncover place</p>
 
-          <h2 class="h2 section-title">Popular destination</h2>
+          <h2 class="h2 section-title">Our Branches</h2>
 
           <p class="section-text">
-            Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium.
-            Sit ornare
-            mollitia tenetur, aptent.
+          From the bustling streets of Colombo to the ancient wonders 
+          of Anuradhapura, the sunny shores of Matara, and the scenic beauty 
+          of Kurunegala and Galle, our branches beckon you to explore the best of 
+          Sri Lanka. Come and visit these incredible destinations 
+          with us, and let your journey begin
           </p>
 
           <ul class="popular-list">
@@ -252,7 +253,7 @@
               <div class="popular-card">
 
                 <figure class="card-img">
-                  <img src="./assets/images/popular-1.jpg" alt="San miguel, italy" loading="lazy">
+                  <img src="./assets/images/popular-colombo.jpg" alt="San miguel, italy" loading="lazy">
                 </figure>
 
                 <div class="card-content">
@@ -266,15 +267,15 @@
                   </div>
 
                   <p class="card-subtitle">
-                    <a href="#">Italy</a>
+                    <a href="#">Colombo</a>
                   </p>
 
                   <h3 class="h3 card-title">
-                    <a href="#">San miguel</a>
+                    <a href="#">Kaduwela</a>
                   </h3>
 
                   <p class="card-text">
-                    Fusce hic augue velit wisi ips quibusdam pariatur, iusto.
+                  Kaduwela, Sri Lanka: Serene suburb near Colombo's vibrant heart.
                   </p>
 
                 </div>
@@ -286,7 +287,7 @@
               <div class="popular-card">
 
                 <figure class="card-img">
-                  <img src="./assets/images/popular-2.jpg" alt="Burj khalifa, dubai" loading="lazy">
+                  <img src="./assets/images/popular-anuradhapura.jpg" alt="Burj khalifa, dubai" loading="lazy">
                 </figure>
 
                 <div class="card-content">
@@ -300,15 +301,15 @@
                   </div>
 
                   <p class="card-subtitle">
-                    <a href="#">Dubai</a>
+                    <a href="#">Anuradhapura</a>
                   </p>
 
                   <h3 class="h3 card-title">
-                    <a href="#">Burj khalifa</a>
+                    <a href="#">New Town</a>
                   </h3>
 
                   <p class="card-text">
-                    Fusce hic augue velit wisi ips quibusdam pariatur, iusto.
+                  Anuradhapura, Sri Lanka: Ancient city, rich history, cultural heritage.
                   </p>
 
                 </div>
@@ -320,7 +321,7 @@
               <div class="popular-card">
 
                 <figure class="card-img">
-                  <img src="./assets/images/popular-3.jpg" alt="Kyoto temple, japan" loading="lazy">
+                  <img src="./assets/images/popular-galle.jpg" alt="Kyoto temple, japan" loading="lazy">
                 </figure>
 
                 <div class="card-content">
@@ -334,15 +335,15 @@
                   </div>
 
                   <p class="card-subtitle">
-                    <a href="#">Japan</a>
+                    <a href="#">Galle</a>
                   </p>
 
                   <h3 class="h3 card-title">
-                    <a href="#">Kyoto temple</a>
+                    <a href="#">galle fort</a>
                   </h3>
 
                   <p class="card-text">
-                    Fusce hic augue velit wisi ips quibusdam pariatur, iusto.
+                  Galle Fort: Historic coastal gem in southern Sri Lanka
                   </p>
 
                 </div>
@@ -373,9 +374,7 @@
           <h2 class="h2 section-title">Checkout Our Packeges</h2>
 
           <p class="section-text">
-            Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium.
-            Sit ornare
-            mollitia tenetur, aptent.
+          Discover Unforgettable Stays with Our Exclusive Hotel Packages Today!
           </p>
 
           <ul class="package-list">
