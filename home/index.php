@@ -180,8 +180,9 @@ if (!isset($_SESSION["user_id"])) {
 
           <div class="btn-group">
             <button class="btn btn-primary">Learn more</button>
-
+            <a href="./hotelreservationform/hotel.php" class="book-now-button">
             <button class="btn btn-secondary">Book now</button>
+        </a>
           </div>
 
         </div>
