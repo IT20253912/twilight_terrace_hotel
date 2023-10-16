@@ -28,6 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 if (password_verify($password, $hashed_password)) {
                     $_SESSION["user_id"] = $user_id;
                     $_SESSION["username"] = $username;
+                    $_SESSION["email"] = $email; // Set the user's email in the session
                     header("location: ../../index.php");
                     // header("location: availability_form.php");
                 } else {

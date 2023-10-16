@@ -149,8 +149,9 @@ if (!isset($_SESSION["user_id"])) {
           </ul>
 
         </nav>
-
+        <a href="./hotelreservationform/hotel.php" class="book-now-button">
         <button class="btn btn-primary">Book Now</button>
+    </a>
 
       </div>
     </div>
