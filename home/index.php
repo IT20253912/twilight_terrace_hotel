@@ -199,7 +199,7 @@ if (!isset($_SESSION["user_id"])) {
       <section class="tour-search">
         <div class="container">
 
-          <form action="" class="tour-search-form">
+          <form action="inquiries/save_inquiry.php" class="tour-search-form">
 
             <div class="input-wrapper">
               <label for="destination" class="input-label">Search Destination*</label>
