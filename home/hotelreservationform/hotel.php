@@ -8,10 +8,10 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
-		<form class="hotel-reservation-form" method="post" action="">
+    <form class="hotel-reservation-form" method="post" action="submit.php">
+
 			<h1><i class="far fa-calendar-alt"></i>Hotel Reservation Form</h1>
 			<div class="fields">
-				<!-- Input Elements -->
                 <div class="wrapper">
 	<div>
 		<label for="arrival">Arrival</label>
