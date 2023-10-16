@@ -35,12 +35,12 @@
 
   <header class="header" data-header>
 
-    <div class="overlay" data-overlay></div>
+    <div class="overlay" data-overlay></div> 
 
     <div class="header-top">
       <div class="container">
 
-        <a href="tel:+01123456790" class="helpline-box">
+        <a href="tel:+94772289561" class="helpline-box">
 
           <div class="icon-box">
             <ion-icon name="call-outline"></ion-icon>
@@ -49,13 +49,13 @@
           <div class="wrapper">
             <p class="helpline-title">For Further Inquires :</p>
 
-            <p class="helpline-number">+01 (123) 4567 90</p>
+            <p class="helpline-number">+94 (77) 2289561</p>
           </div>
 
         </a>
 
         <a href="#" class="logo">
-          <img src="./assets/images/logo.svg" alt="Tourly logo">
+          <img src="./assets/icons/logo-removebg-preview.png" alt="Tourly logo">
         </a>
 
         <div class="header-btn-group">

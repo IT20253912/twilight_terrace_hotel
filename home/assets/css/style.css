@@ -327,7 +327,7 @@ body { background: var(--white); }
   padding: 40px 15px;
 }
 
-.navbar-top .logo img { width: 150px; }
+.navbar-top .logo img { width: 100px;height: 150px; }
 
 .nav-close-btn {
   font-size: 20px;
@@ -375,7 +375,7 @@ body { background: var(--white); }
 \*-----------------------------------*/
 
 .hero {
-  background-image: url("../images/hero-banner.jpg");
+  background-image: url("../images/hero-banner-final.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
