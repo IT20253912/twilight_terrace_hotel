@@ -782,7 +782,7 @@ if (!isset($_SESSION["user_id"])) {
       <div class="container">
 
         <p class="copyright">
-          &copy; 2022 <a href="">codewithsadee</a>. All rights reserved
+          &copy; 2023 <a href=""></a>. All rights reserved
         </p>
 
         <ul class="footer-bottom-list">
