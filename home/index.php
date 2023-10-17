@@ -14,6 +14,7 @@ if (!isset($_SESSION["user_id"])) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>twilight_terrace_hotel</title>
 
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
   <!-- 
     - favicon
   -->
@@ -199,11 +200,12 @@ if (!isset($_SESSION["user_id"])) {
       <section class="tour-search">
         <div class="container">
 
-          <form action="inquiries/save_inquiry.php" class="tour-search-form">
+          <form action="inquiries/save_inquiry.php" method="POST" class="tour-search-form">
 
             <div class="input-wrapper">
               <label for="destination" class="input-label">Search Destination*</label>
 
+              <input type="hidden" name="user_id" value="<?php echo $user_id; ?>">
               <input type="text" name="destination" id="destination" required placeholder="Enter Destination"
                 class="input-field">
             </div>
@@ -836,6 +838,7 @@ if (!isset($_SESSION["user_id"])) {
   -->
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
 
 </body>
 
