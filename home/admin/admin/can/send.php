@@ -12,12 +12,12 @@ if(isset($_POST["send"])){
     $mail->isSMTP();
     $mail->Host ='mail.dinuda.com'; // GMail SMTP server address
     $mail->SMTPAuth = true;
-    $mail->Username='basl@dinuda.com';//GMAIL USERNAME
-    $mail->Password='[mi++tSSi.I,';//GMAIL PASSWORD
+    $mail->Username='twilightterracehotel@dinuda.com';//GMAIL USERNAME
+    $mail->Password='Chathu@0604';//GMAIL PASSWORD
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465; // Port number for SSL
 
-    $mail->setFrom('basl@dinuda.com');
+    $mail->setFrom('twilightterracehotel@dinuda.com');
     
     $emailAddresses = explode(',', $_POST["email"]); // Split email addresses by comma
 
