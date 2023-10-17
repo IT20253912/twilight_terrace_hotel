@@ -91,7 +91,7 @@ $result = mysqli_query($con, $select_sql);
                         echo '</div>';
                         echo '</div>';
                         echo '<p class="price">';
-                        echo '$' . $row['price'];
+                        echo 'Rs.'.' ' . $row['price'];
                         echo '<span>/ per person</span>';
                         echo '</p>';
                         echo '<button class="btn btn-secondary">

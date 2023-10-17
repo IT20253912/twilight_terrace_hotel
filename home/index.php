@@ -394,7 +394,7 @@ if (!isset($_SESSION["user_id"])) {
               <div class="package-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/packege-1.jpg" alt="Experience The Great Holiday On Beach" loading="lazy">
+                  <img src="./assets/images/packege-1-final.jpg" alt="Experience The Great Holiday On Beach" loading="lazy">
                 </figure>
 
                 <div class="card-content">
@@ -402,8 +402,7 @@ if (!isset($_SESSION["user_id"])) {
                   <h3 class="h3 card-title">Experience The Great Holiday On Beach</h3>
 
                   <p class="card-text">
-                    Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque,
-                    cras, aspernatur.
+                  Mathara Beach: A serene coastal paradise with golden sands and azure waters, perfect for relaxation and natural beauty
                   </p>
 
                   <ul class="card-meta-list">
@@ -428,7 +427,7 @@ if (!isset($_SESSION["user_id"])) {
                       <div class="meta-box">
                         <ion-icon name="location"></ion-icon>
 
-                        <p class="text">Malaysia</p>
+                        <p class="text">Mathara</p>
                       </div>
                     </li>
 
@@ -453,12 +452,12 @@ if (!isset($_SESSION["user_id"])) {
                   </div>
 
                   <p class="price">
-                    $750
+                    Rs. 7500
                     <span>/ per person</span>
                   </p>
-
+                  <a href="./payment/index.php" class="book-now-button">
                   <button class="btn btn-secondary">Book Now</button>
-
+                  </a>
                 </div>
 
               </div>
@@ -468,16 +467,15 @@ if (!isset($_SESSION["user_id"])) {
               <div class="package-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/packege-2.jpg" alt="Summer Holiday To The Oxolotan River" loading="lazy">
+                  <img src="./assets/images/packege-2-final.jpg" alt="Summer Holiday To The Oxolotan River" loading="lazy">
                 </figure>
 
                 <div class="card-content">
 
-                  <h3 class="h3 card-title">Summer Holiday To The Oxolotan River</h3>
+                  <h3 class="h3 card-title">Summer Holiday with Elephant Safari</h3>
 
                   <p class="card-text">
-                    Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque,
-                    cras, aspernatur.
+                  Polonnaruwa: Historic city in Sri Lanka with stunning ancient ruins.
                   </p>
 
                   <ul class="card-meta-list">
@@ -502,7 +500,7 @@ if (!isset($_SESSION["user_id"])) {
                       <div class="meta-box">
                         <ion-icon name="location"></ion-icon>
 
-                        <p class="text">Malaysia</p>
+                        <p class="text">Polonnaruwa</p>
                       </div>
                     </li>
 
@@ -527,12 +525,12 @@ if (!isset($_SESSION["user_id"])) {
                   </div>
 
                   <p class="price">
-                    $520
+                    Rs. 5200
                     <span>/ per person</span>
                   </p>
-
+                  <a href="./payment/index.php" class="book-now-button">
                   <button class="btn btn-secondary">Book Now</button>
-
+</a>
                 </div>
 
               </div>
@@ -542,7 +540,7 @@ if (!isset($_SESSION["user_id"])) {
               <div class="package-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/packege-3.jpg" alt="Santorini Island's Weekend Vacation" loading="lazy">
+                  <img src="./assets/images/packege-3-final.jpg" alt="Santorini Island's Weekend Vacation" loading="lazy">
                 </figure>
 
                 <div class="card-content">
@@ -550,8 +548,7 @@ if (!isset($_SESSION["user_id"])) {
                   <h3 class="h3 card-title">Santorini Island's Weekend Vacation</h3>
 
                   <p class="card-text">
-                    Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque,
-                    cras, aspernatur.
+                  A picturesque city nestled in the hills of Sri Lanka, renowned for its lush landscapes, rich culture, and the revered Temple of the Tooth Relic, a significant Buddhist pilgrimage site.
                   </p>
 
                   <ul class="card-meta-list">
@@ -576,7 +573,7 @@ if (!isset($_SESSION["user_id"])) {
                       <div class="meta-box">
                         <ion-icon name="location"></ion-icon>
 
-                        <p class="text">Malaysia</p>
+                        <p class="text">Kandy</p>
                       </div>
                     </li>
 
@@ -601,20 +598,21 @@ if (!isset($_SESSION["user_id"])) {
                   </div>
 
                   <p class="price">
-                    $660
+                    Rs. 660
                     <span>/ per person</span>
                   </p>
-
+                  <a href="./payment/index.php" class="book-now-button">
                   <button class="btn btn-secondary">Book Now</button>
-
+</a>
                 </div>
 
               </div>
             </li>
 
           </ul>
-
+          <a href="./packages/index.php" class="book-now-button">
           <button class="btn btn-primary">View All Packages</button>
+</a>
 
         </div>
       </section>
@@ -644,31 +642,31 @@ if (!isset($_SESSION["user_id"])) {
 
             <li class="gallery-item">
               <figure class="gallery-image">
-                <img src="./assets/images/gallery-1.jpg" alt="Gallery image">
+                <img src="./assets/images/gallery-1-final.jpg" alt="Gallery image">
               </figure>
             </li>
 
             <li class="gallery-item">
               <figure class="gallery-image">
-                <img src="./assets/images/gallery-2.jpg" alt="Gallery image">
+                <img src="./assets/images/gallery-2-final.jpg" alt="Gallery image">
               </figure>
             </li>
 
             <li class="gallery-item">
               <figure class="gallery-image">
-                <img src="./assets/images/gallery-3.jpg" alt="Gallery image">
+                <img src="./assets/images/gallery-3-final.jpg" alt="Gallery image">
               </figure>
             </li>
 
             <li class="gallery-item">
               <figure class="gallery-image">
-                <img src="./assets/images/gallery-4.jpg" alt="Gallery image">
+                <img src="./assets/images/gallery-4-final.jpg" alt="Gallery image">
               </figure>
             </li>
 
             <li class="gallery-item">
               <figure class="gallery-image">
-                <img src="./assets/images/gallery-5.jpg" alt="Gallery image">
+                <img src="./assets/images/gallery-5-final.jpg" alt="Gallery image">
               </figure>
             </li>
 
@@ -691,12 +689,10 @@ if (!isset($_SESSION["user_id"])) {
           <div class="cta-content">
             <p class="section-subtitle">Call To Action</p>
 
-            <h2 class="h2 section-title">Ready For Unforgatable Travel. Remember Us!</h2>
+            <h2 class="h2 section-title">Wherever you go, we're here to make your stay extraordinary</h2>
 
             <p class="section-text">
-              Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque
-              laudantium. Sit ornare
-              mollitia tenetur, aptent.
+            Travel, explore, and book your stay effortlessly.
             </p>
           </div>
 
@@ -724,13 +720,11 @@ if (!isset($_SESSION["user_id"])) {
         <div class="footer-brand">
 
           <a href="#" class="logo">
-            <img src="./assets/images/logo.svg" alt="Tourly logo">
+          <img src="./assets/icons/logo-removebg-preview.png" alt="Tourly logo" style="width: 120px; height: 60px;">
           </a>
 
           <p class="footer-text">
-            Urna ratione ante harum provident, eleifend, vulputate molestiae proin fringilla, praesentium magna conubia
-            at
-            perferendis, pretium, aenean aut ultrices.
+          Travel, explore, and book your stay effortlessly.
           </p>
 
         </div>
@@ -748,19 +742,19 @@ if (!isset($_SESSION["user_id"])) {
             <li class="contact-item">
               <ion-icon name="call-outline"></ion-icon>
 
-              <a href="tel:+01123456790" class="contact-link">+01 (123) 4567 90</a>
+              <a href="tel:+01123456790" class="contact-link">+094 (77) 2289561</a>
             </li>
 
             <li class="contact-item">
               <ion-icon name="mail-outline"></ion-icon>
 
-              <a href="mailto:info.tourly.com" class="contact-link">info.tourly.com</a>
+              <a href="mailto:info.tourly.com" class="contact-link">info@hotel.com</a>
             </li>
 
             <li class="contact-item">
               <ion-icon name="location-outline"></ion-icon>
 
-              <address>3146 Koontz, California</address>
+              <address>3146 Kaduwela, Colombo</address>
             </li>
 
           </ul>
